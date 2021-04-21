@@ -1,7 +1,3 @@
-# Week1 - Descomplicando Ansible LinuxTips - 2021
-- Primeira semana. 
-- Criação de playbook básico para instalar Nginx. 
-
 # Week2 - Descomplicando Ansible LinuxTips - 2021
 
 Instalação de um cluster Kubernetes utilizando Ansible + AWS.
