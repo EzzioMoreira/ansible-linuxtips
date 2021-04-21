@@ -7,4 +7,4 @@ Instalação de um cluster Kubernetes utilizando Ansible + AWS.
 - Provisioning  => Criar as instâncias/vms para cluster.
 - Install_k8s   => Criar cluster k8s.
 - Deploy_app    => Deploy de uma aplicação de exemplo.
-- Continua.....
+- Continua..
