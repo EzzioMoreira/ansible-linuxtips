@@ -1,3 +1,4 @@
-[webservers]
-web01.metal.corp
-web02.metal.corp
+[local]
+localhost ansible_connection=local ansible_python_interpreter=python gather_facts=false
+
+[kubernetes]
