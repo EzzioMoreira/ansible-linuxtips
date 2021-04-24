@@ -3,7 +3,7 @@
 instance_type: t2.medium
 sec_group_name: app.exempla.metal.corp
 image: ami-08962a4068733a2b6
-keypair: ansible.pem
+keypair: ansible
 region: us-east-2
 count: 3
 profile: default

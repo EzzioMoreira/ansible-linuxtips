@@ -1,7 +1,7 @@
 - name: Criando o Sec Group
   ec2_group:
     name: "{{ sec_group_name }}"
-    description: sg giropops
+    description: sg metal corp
     profile: "{{ profile }}"
     region: "{{ region }}"
     rules:
@@ -10,7 +10,7 @@
       to_port: 22
       cidr_ip: 0.0.0.0/0
       rule_desc: SSH
-    rule_agress:
+    rules_egress:
     - proto: all
       cidr_ip: 0.0.0.0/0
   register: basic_firewall

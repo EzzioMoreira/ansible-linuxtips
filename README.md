@@ -1,4 +1,4 @@
-# Week2 - Descomplicando Ansible LinuxTips - 2021
+# Descomplicando Ansible LinuxTips - 2021
 
 Instalação de um cluster Kubernetes utilizando Ansible + AWS.
 
