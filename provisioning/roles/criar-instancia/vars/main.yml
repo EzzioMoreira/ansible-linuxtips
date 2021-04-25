@@ -6,4 +6,4 @@ image: ami-08962a4068733a2b6
 keypair: ansible
 region: us-east-2
 count: 3
-profile: default
+profile: metalcorp
