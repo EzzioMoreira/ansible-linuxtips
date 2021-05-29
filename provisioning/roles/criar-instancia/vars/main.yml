@@ -1,7 +1,7 @@
 ---
 # vars file for criar-instancia
 instance_type: t2.medium
-sec_group_name: app.exempla.metal.corp
+sec_group_name: metalcorp
 image: ami-08962a4068733a2b6
 keypair: ansible
 region: us-east-2

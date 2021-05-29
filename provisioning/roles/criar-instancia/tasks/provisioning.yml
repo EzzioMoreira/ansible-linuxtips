@@ -1,7 +1,7 @@
 - name: Criando o Sec Group
   ec2_group:
     name: "{{ sec_group_name }}"
-    description: sg metal corp
+    description: sg-metal-corp
     profile: "{{ profile }}"
     region: "{{ region }}"
     rules:
